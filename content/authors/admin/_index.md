@@ -34,7 +34,7 @@ social:
   link: http://lattes.cnpq.br/6170966192769258
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/gustavogampereira/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/gustavo-pereira-phd-55220927/
