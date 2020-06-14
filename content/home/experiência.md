@@ -49,14 +49,6 @@ date_format = "Jan 2006"
   date_end = "2020-01-31"
   description = """Foi responsável pela gestão das atividades relacionadas com o manejo integrado de plantas daninhas em áreas agrícolas e florestais."""
 
-[[experience]]
-  title = "Coordenador do grupo de pesquisa em Manejo Integrado de Plantas Daninhas"
-  company = "Universidade Federal de Viçosa"
-  company_url = ""
-  location = "Viçosa, MG"
-  date_start = "2013-01-01"
-  date_end = "2019-12-31"
-  description = """Participou de diversos projetos em parceria com empresas. Orientou estudantes em dissertações e teses. Além de chefiar os laboratórios
-de herbicida na planta e herbicida no solo."""
+
 
 +++
