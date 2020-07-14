@@ -18,7 +18,7 @@ interests:
 - Agricultura
 - Pesquisa agrícola
 - Manejo de plantas daninhas
-- teste
+- Proteção de plantas
 organizations: 
 - name: Universidade Federal de Viçosa
   url: ""
